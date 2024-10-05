@@ -1,0 +1,8 @@
+* birbs
+
+My first experiment with the bevy engine.
+
+I wanted to get a feel for its composition features.
+
+Gotta say the result is awesome, and I hope to be using bevy more.
+
